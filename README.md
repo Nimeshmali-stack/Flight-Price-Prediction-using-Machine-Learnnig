@@ -1,7 +1,5 @@
 # Flight Fare Prediction: 
 
-Thus project is inspired from mandalas work
-
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
